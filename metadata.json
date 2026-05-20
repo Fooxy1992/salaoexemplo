@@ -1,0 +1,6 @@
+{
+  "name": "Elara Studio",
+  "description": "Premium booking and admin management system for Sabrina Bicalho Beauty at Elara Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
